@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G+ahq6P08AiEEaix0NHO+mrrVvbY5hBlbtb2XhQnQZsy8xV4zx1Xog/GIhygy8+/4uIkJGasLlLK4S29Q531LQ==",
+  "dgSpecHash": "Z12Ie9kBY3N85VjdtDbFU05p01JRNiTIj1BpwArBRn0p1iCMbYf6McC8uL+VCKJBoHSuIKFuA0ssGXwS/KMDZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\репсол\\Desktop\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\repsol\\Desktop\\exerc\\Test\\Test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\репсол\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+    "C:\\Users\\repsol\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
