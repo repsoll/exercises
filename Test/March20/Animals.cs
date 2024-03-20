@@ -12,7 +12,7 @@ namespace Test.March20
         public int AnimalID { get; set; }
         public int Age { get; set; }
         public string Name { get; set; }
-        public Habitat Habitat { get; set; } 
+        public HabitatType HabitatType { get; set; } 
         public DietType DietType { get; set; }
     }
 }

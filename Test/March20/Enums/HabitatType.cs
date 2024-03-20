@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test.March20.Enums
 {
-    public enum Habitat
+    public enum HabitatType
     {
         Jungle = 1,
         Savanna = 2,
